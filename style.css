@@ -21,3 +21,11 @@ p {
   color:brown;
   font-size: 30px;
 }
+
+/*class*/
+.kani {
+  margin-top: 6px;
+  list-style: none;
+  padding-left: 0;
+  background-color: bisque;
+}

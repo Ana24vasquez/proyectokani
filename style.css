@@ -1,0 +1,23 @@
+p {
+    font-size: 50px;
+}
+
+/*class*/
+.titulo {
+  color: rgb(83, 43, 226);
+  font-size: 50px;
+}
+
+
+
+/* ID*/ 
+.parrafo {
+    color: black;
+
+}
+
+/* ID*/
+#texto {
+  color:brown;
+  font-size: 30px;
+}

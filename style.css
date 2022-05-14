@@ -42,7 +42,7 @@ main {
 }
 
 /*class*/
-.main-nav {
+.main-nav a {
   list-style: none;
   padding-left: 0;
   background-color: rgb(65, 65, 117);
@@ -58,11 +58,8 @@ main {
   text-decoration: none;
 }
 
-.main-nav__item a:hover {
+.main-nav__item :hover {
   color: violet;
-}
-.main-nav__item a:active {
-  color: red;
 }
 
 .main-nav__item a::after {

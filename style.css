@@ -20,6 +20,7 @@ main {
   color: rgb(83, 43, 226);
   font-size: 50px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
   
 }
 
@@ -49,6 +50,12 @@ main {
 
 .main-nav li {
   display: inline-block;
+}
+.main-nav a {
+  color: white;
+  padding: 5px;
+  border-radius: 2px;
+  text-decoration: none;
 }
 
 

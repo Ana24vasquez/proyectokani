@@ -70,3 +70,14 @@ header h2 {
   font-weight: bold;
   line-height: normal;
 }
+
+/*MAIN*/
+
+.portada {
+  display: block;
+  width: 100%;
+  height: 100px;
+  
+  
+
+}
